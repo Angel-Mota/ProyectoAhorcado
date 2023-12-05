@@ -12,3 +12,17 @@ C:\Users\angel\source\repos\ProyectoAhorcado\ProyectoAhorcado\obj\Debug\net6.0\r
 C:\Users\angel\source\repos\ProyectoAhorcado\ProyectoAhorcado\obj\Debug\net6.0\ProyectoAhorcado.pdb
 C:\Users\angel\source\repos\ProyectoAhorcado\ProyectoAhorcado\obj\Debug\net6.0\ProyectoAhorcado.genruntimeconfig.cache
 C:\Users\angel\source\repos\ProyectoAhorcado\ProyectoAhorcado\obj\Debug\net6.0\ref\ProyectoAhorcado.dll
+C:\Users\JENIM\source\repos\ProyectoAhorcado-main\ProyectoAhorcado\bin\Debug\net6.0\ProyectoAhorcado.exe
+C:\Users\JENIM\source\repos\ProyectoAhorcado-main\ProyectoAhorcado\bin\Debug\net6.0\ProyectoAhorcado.deps.json
+C:\Users\JENIM\source\repos\ProyectoAhorcado-main\ProyectoAhorcado\bin\Debug\net6.0\ProyectoAhorcado.runtimeconfig.json
+C:\Users\JENIM\source\repos\ProyectoAhorcado-main\ProyectoAhorcado\bin\Debug\net6.0\ProyectoAhorcado.dll
+C:\Users\JENIM\source\repos\ProyectoAhorcado-main\ProyectoAhorcado\bin\Debug\net6.0\ProyectoAhorcado.pdb
+C:\Users\JENIM\source\repos\ProyectoAhorcado-main\ProyectoAhorcado\obj\Debug\net6.0\ProyectoAhorcado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JENIM\source\repos\ProyectoAhorcado-main\ProyectoAhorcado\obj\Debug\net6.0\ProyectoAhorcado.AssemblyInfoInputs.cache
+C:\Users\JENIM\source\repos\ProyectoAhorcado-main\ProyectoAhorcado\obj\Debug\net6.0\ProyectoAhorcado.AssemblyInfo.cs
+C:\Users\JENIM\source\repos\ProyectoAhorcado-main\ProyectoAhorcado\obj\Debug\net6.0\ProyectoAhorcado.csproj.CoreCompileInputs.cache
+C:\Users\JENIM\source\repos\ProyectoAhorcado-main\ProyectoAhorcado\obj\Debug\net6.0\ProyectoAhorcado.dll
+C:\Users\JENIM\source\repos\ProyectoAhorcado-main\ProyectoAhorcado\obj\Debug\net6.0\refint\ProyectoAhorcado.dll
+C:\Users\JENIM\source\repos\ProyectoAhorcado-main\ProyectoAhorcado\obj\Debug\net6.0\ProyectoAhorcado.pdb
+C:\Users\JENIM\source\repos\ProyectoAhorcado-main\ProyectoAhorcado\obj\Debug\net6.0\ProyectoAhorcado.genruntimeconfig.cache
+C:\Users\JENIM\source\repos\ProyectoAhorcado-main\ProyectoAhorcado\obj\Debug\net6.0\ref\ProyectoAhorcado.dll
