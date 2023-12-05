@@ -51,5 +51,66 @@ class Program
         }
 
         Console.ReadLine();
+        //Alan Omar Rendon Martinez(Estructura)
+        static void DibujarAhorcado(int errores)
+        {
+            switch (errores)
+            {
+                //El codigo funciona para actualizar el monito cada vez que se equivoque al ingrsar una letra incorrecta usando un switch para agregar
+                // y actualizar el disño del monito, una vez completado el monito se imprimira que el usuario ha perdido  
+                case 1:
+                    Console.WriteLine("  +---+");
+                    Console.WriteLine("  |   |");
+                    Console.WriteLine("      |");
+                    Console.WriteLine("      |");
+                    Console.WriteLine("      |");
+                    Console.WriteLine("      |");
+                    break;
+                case 2:
+                    Console.WriteLine("  +---+");
+                    Console.WriteLine("  |   |");
+                    Console.WriteLine("  O   |");
+                    Console.WriteLine("      |");
+                    Console.WriteLine("      |");
+                    Console.WriteLine("      |");
+                    break;
+                case 3:
+                    Console.WriteLine("  +---+");
+                    Console.WriteLine("  |   |");
+                    Console.WriteLine("  O   |");
+                    Console.WriteLine("  |   |");
+                    Console.WriteLine("      |");
+                    Console.WriteLine("      |");
+                    break;
+                case 4:
+                    Console.WriteLine("  +---+");
+                    Console.WriteLine("  |   |");
+                    Console.WriteLine("  O   |");
+                    Console.WriteLine(" -|   |");
+                    Console.WriteLine("      |");
+                    Console.WriteLine("      |");
+                    break;
+                case 5:
+                    Console.WriteLine("  +---+");
+                    Console.WriteLine("  |   |");
+                    Console.WriteLine("  O   |");
+                    Console.WriteLine(" -|-  |");
+                    Console.WriteLine("      |");
+                    Console.WriteLine("      |");
+                    break;
+                case 6:
+                    Console.WriteLine("  +---+");
+                    Console.WriteLine("  |   |");
+                    Console.WriteLine("  O   |");
+                    Console.WriteLine(" -|-  |");
+                    Console.WriteLine(" -+-  |");
+                    Console.WriteLine("      |");
+                    Console.WriteLine("GAME OVER");
+                    break;
+                default:
+                    break;
+            }
+        }
+
     }
 }

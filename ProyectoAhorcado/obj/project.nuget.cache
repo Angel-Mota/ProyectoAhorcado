@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "trg7NMkHNKm0bwYhA9VfCSq8gUNU70+2q11UWpof67sPR1qjHd/3aXj+RBjmPOlQpdHZ9Rw55clrqHkNCZOHlA==",
+  "dgSpecHash": "6jhRMOlxGuMgGknYcBaxON9wo1DyuSofgXWB2uuSzvLmV/8fvzCP4OC0IO0B4IqT6e1gGIjxVlfCc45plD/CtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JENIM\\source\\repos\\ProyectoAhorcado-main\\ProyectoAhorcado\\ProyectoAhorcado.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\AlanO\\Downloads\\ProyectoAhorcado-main\\ProyectoAhorcado-main\\ProyectoAhorcado\\ProyectoAhorcado.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AlanO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\AlanO\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\AlanO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\AlanO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
