@@ -50,6 +50,18 @@ class Program
             DibujarAhorcado(6);
         }
     }
+    //Carlos Julian Ayala Soto(Implementacion de palabras)
+    static string ObtenerPalabraSecreta()//Este metodo es el responsable de elegir la palbra al azar de una listra predeterminada y la devuelve como palabra secreta
+    {
+        //Este arreglo contiene varias palabras que pueden ser seleccionadas como la palabra secreta
+        string[] palabras = { "Zombie", "Proyecto", "Final", "Aprovar", "Marile" };
+        //generar números aleatorios
+        Random random = new Random();
+        // Se utiliza el método Next() del objeto Random para obtener un número aleatorio entre 0 y la longitud del arreglo palabras. Este número aleatorio se utilizará como índice para seleccionar una palabra aleatoria del arreglo.
+        int indice = random.Next(palabras.Length);
+        //Al final se devuelve la palabra del arreglo palabras que corresponde al índice aleatorio seleccionado.
+        return palabras[indice];
+    }
     //Alexis Manuel Espinoza Martinez - Interfaz de Usuario
     //Este método muestra el estado actual del juego en la consola
     static void MostrarEstadoJuego(char[] palabraMostrada, int intentosRestantes)
